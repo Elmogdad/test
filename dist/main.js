@@ -123,7 +123,7 @@ eval("\n\n/* eslint-disable */\n\n/**\n * @param {string[]} pathComponents\n * @
   \***************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("// extracted by mini-css-extract-plugin\n    if(true) {\n      // 1689925590014\n      var cssReload = __webpack_require__(/*! ../../node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"esModule\":false,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://test/./src/css/style.css?");
+eval("// extracted by mini-css-extract-plugin\n    if(true) {\n      // 1690143048133\n      var cssReload = __webpack_require__(/*! ../../node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"esModule\":false,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://test/./src/css/style.css?");
 
 /***/ }),
 
@@ -133,7 +133,7 @@ eval("// extracted by mini-css-extract-plugin\n    if(true) {\n      // 16899255
   \***********************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("// extracted by mini-css-extract-plugin\n    if(true) {\n      // 1689924796322\n      var cssReload = __webpack_require__(/*! ../../../mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"esModule\":false,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://test/./node_modules/bootstrap/dist/css/bootstrap.min.css?");
+eval("// extracted by mini-css-extract-plugin\n    if(true) {\n      // 1690070107228\n      var cssReload = __webpack_require__(/*! ../../../mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ \"./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"esModule\":false,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  \n\n//# sourceURL=webpack://test/./node_modules/bootstrap/dist/css/bootstrap.min.css?");
 
 /***/ }),
 
@@ -359,7 +359,7 @@ eval("var logLevel = \"info\";\n\nfunction dummy() {}\n\nfunction shouldLog(leve
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! bootstrap/dist/css/bootstrap.min.css */ \"./node_modules/bootstrap/dist/css/bootstrap.min.css\");\n/* harmony import */ var bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./css/style.css */ \"./src/css/style.css\");\n/* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_css_style_css__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _fortawesome_fontawesome_free_js_all_min__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @fortawesome/fontawesome-free/js/all.min */ \"./node_modules/@fortawesome/fontawesome-free/js/all.min.js\");\n/* harmony import */ var _fortawesome_fontawesome_free_js_all_min__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_fontawesome_free_js_all_min__WEBPACK_IMPORTED_MODULE_2__);\nwindow.bootstrap = __webpack_require__(/*! bootstrap/dist/js/bootstrap.bundle.js */ \"./node_modules/bootstrap/dist/js/bootstrap.bundle.js\");\r\n\r\n\r\n\r\n\r\n//Tooltip\r\ndocument.querySelectorAll('[data-bs-toggle=\"tooltip\"]').forEach(item => new bootstrap.Tooltip(item))\r\n\r\nconsole.log(\"هلا بك في متجر عربي\")\r\n\r\nconsole.log(\"هلا بك في متجر مقو\")\n\n//# sourceURL=webpack://test/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! bootstrap/dist/css/bootstrap.min.css */ \"./node_modules/bootstrap/dist/css/bootstrap.min.css\");\n/* harmony import */ var bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(bootstrap_dist_css_bootstrap_min_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./css/style.css */ \"./src/css/style.css\");\n/* harmony import */ var _css_style_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_css_style_css__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _fortawesome_fontawesome_free_js_all_min__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @fortawesome/fontawesome-free/js/all.min */ \"./node_modules/@fortawesome/fontawesome-free/js/all.min.js\");\n/* harmony import */ var _fortawesome_fontawesome_free_js_all_min__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_fontawesome_free_js_all_min__WEBPACK_IMPORTED_MODULE_2__);\nwindow.bootstrap = __webpack_require__(/*! bootstrap/dist/js/bootstrap.bundle.js */ \"./node_modules/bootstrap/dist/js/bootstrap.bundle.js\");\r\n\r\n\r\n\r\n\r\n//Tooltip\r\ndocument.querySelectorAll('[data-bs-toggle=\"tooltip\"]').forEach(item => new bootstrap.Tooltip(item));\r\n\r\ndocument.querySelectorAll('.add-to-cart-btn').forEach(item => {\r\n    item.addEventListener(\"click\", () =>{\r\n        alert(\"أضيف المنتج الي عربة الشراء\")\r\n    })\r\n})\r\n\r\nconsole.log(\"هلا بك في متجر عربي\")\r\n\r\nconsole.log(\"هلا بك في متجر مقو\")\n\n//# sourceURL=webpack://test/./src/index.js?");
 
 /***/ })
 
@@ -457,7 +457,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var boot
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("e3c612560ff54b051836")
+/******/ 		__webpack_require__.h = () => ("e0d88d073f2a3a76feb0")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
